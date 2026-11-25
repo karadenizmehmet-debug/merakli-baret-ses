@@ -1,0 +1,16 @@
+{
+ "baslik": "Minecraft'ta elmas 5 dakika, gerçekte milyarlarca yıl",
+ "cumleler": [
+  {"metin": "Minecraft'ta elması beş dakikada bulursun.", "okunus": "Maynkraft'ta elması beş dakikada bulursun.", "duygu": 0.7, "duraklama": 0.2},
+  {"metin": "Gerçekte ise milyarlarca yıl sürüyor!", "duygu": 0.8, "duraklama": 0.35},
+  {"metin": "Elmas, yerin 150 kilometre altında oluşur.", "duygu": 0.55, "duraklama": 0.2},
+  {"metin": "Orada sıcaklık 1000 dereceyi geçer, basınç da devasadır.", "duygu": 0.6, "duraklama": 0.25},
+  {"metin": "Karbon atomları sıkışa sıkışa sapasağlam bir kafes kurar.", "duygu": 0.55, "duraklama": 0.25},
+  {"metin": "İşin tuhafı, kurşun kalemdeki grafit de aynı atomdan yapılmış!", "duygu": 0.8, "duraklama": 0.35},
+  {"metin": "Peki elmas yeryüzüne nasıl çıkıyor?", "duygu": 0.65, "duraklama": 0.2},
+  {"metin": "Volkanik bir baca, onu asansör gibi hızla yukarı fırlatıyor.", "duygu": 0.7, "duraklama": 0.25},
+  {"metin": "Yavaş çıksaydı tekrar grafite dönüşürdü.", "duygu": 0.55, "duraklama": 0.3},
+  {"metin": "Yani parmağındaki elmas, dinozorlardan bile yaşlı.", "duygu": 0.75, "duraklama": 0.3},
+  {"metin": "Bir dahaki kazında bunu hatırla!", "duygu": 0.8, "duraklama": 0.1}
+ ]
+}
