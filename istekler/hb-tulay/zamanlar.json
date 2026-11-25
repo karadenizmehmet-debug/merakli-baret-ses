@@ -1,0 +1,187 @@
+{
+ "sure": 15.68,
+ "cumleler": [
+  {
+   "no": 1,
+   "metin": "Doktor! Terlik yedim, üstüne bir de ilaç sıktılar!",
+   "bas": 0.0,
+   "son": 2.994,
+   "kelimeler": [
+    {
+     "kelime": "Doktor!",
+     "bas": 0.0,
+     "son": 0.437
+    },
+    {
+     "kelime": "Terlik",
+     "bas": 0.437,
+     "son": 0.774
+    },
+    {
+     "kelime": "yedim,",
+     "bas": 0.774,
+     "son": 1.211
+    },
+    {
+     "kelime": "üstüne",
+     "bas": 1.211,
+     "son": 1.716
+    },
+    {
+     "kelime": "bir",
+     "bas": 1.716,
+     "son": 1.884
+    },
+    {
+     "kelime": "de",
+     "bas": 1.884,
+     "son": 2.052
+    },
+    {
+     "kelime": "ilaç",
+     "bas": 2.052,
+     "son": 2.389
+    },
+    {
+     "kelime": "sıktılar!",
+     "bas": 2.389,
+     "son": 2.994
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "metin": "Hiçbir şeyin yok. Biz kırk üç farklı kimyasala dayanıklıyız.",
+   "bas": 3.054,
+   "son": 7.109,
+   "kelimeler": [
+    {
+     "kelime": "Hiçbir",
+     "bas": 3.054,
+     "son": 3.456
+    },
+    {
+     "kelime": "şeyin",
+     "bas": 3.456,
+     "son": 3.857
+    },
+    {
+     "kelime": "yok.",
+     "bas": 3.857,
+     "son": 4.178
+    },
+    {
+     "kelime": "Biz",
+     "bas": 4.178,
+     "son": 4.379
+    },
+    {
+     "kelime": "kırk",
+     "bas": 4.379,
+     "son": 4.58
+    },
+    {
+     "kelime": "üç",
+     "bas": 4.58,
+     "son": 4.78
+    },
+    {
+     "kelime": "farklı",
+     "bas": 4.78,
+     "son": 5.182
+    },
+    {
+     "kelime": "kimyasala",
+     "bas": 5.182,
+     "son": 5.985
+    },
+    {
+     "kelime": "dayanıklıyız.",
+     "bas": 5.985,
+     "son": 7.109
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "metin": "Kırk üç mü? Kırk dördüncüyü getirsinler o zaman!",
+   "bas": 7.169,
+   "son": 10.527,
+   "kelimeler": [
+    {
+     "kelime": "Kırk",
+     "bas": 7.169,
+     "son": 7.376
+    },
+    {
+     "kelime": "üç",
+     "bas": 7.376,
+     "son": 7.583
+    },
+    {
+     "kelime": "mü?",
+     "bas": 7.583,
+     "son": 7.915
+    },
+    {
+     "kelime": "Kırk",
+     "bas": 7.915,
+     "son": 8.122
+    },
+    {
+     "kelime": "dördüncüyü",
+     "bas": 8.122,
+     "son": 8.952
+    },
+    {
+     "kelime": "getirsinler",
+     "bas": 8.952,
+     "son": 9.781
+    },
+    {
+     "kelime": "o",
+     "bas": 9.781,
+     "son": 9.988
+    },
+    {
+     "kelime": "zaman!",
+     "bas": 9.988,
+     "son": 10.527
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "metin": "Terlik kimyasal değil, Tülay Hanım.",
+   "bas": 10.587,
+   "son": 15.58,
+   "kelimeler": [
+    {
+     "kelime": "Terlik",
+     "bas": 10.587,
+     "son": 11.406
+    },
+    {
+     "kelime": "kimyasal",
+     "bas": 11.406,
+     "son": 12.633
+    },
+    {
+     "kelime": "değil,",
+     "bas": 12.633,
+     "son": 13.697
+    },
+    {
+     "kelime": "Tülay",
+     "bas": 13.697,
+     "son": 14.516
+    },
+    {
+     "kelime": "Hanım.",
+     "bas": 14.516,
+     "son": 15.58
+    }
+   ]
+  }
+ ]
+}
