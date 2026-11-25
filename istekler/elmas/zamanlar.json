@@ -1,0 +1,448 @@
+{
+ "sure": 35.41,
+ "cumleler": [
+  {
+   "no": 1,
+   "metin": "Minecraft'ta elması beş dakikada bulursun.",
+   "bas": 0.0,
+   "son": 2.14,
+   "kelimeler": [
+    {
+     "kelime": "Minecraft'ta",
+     "bas": 0.0,
+     "son": 0.549
+    },
+    {
+     "kelime": "elması",
+     "bas": 0.549,
+     "son": 0.96
+    },
+    {
+     "kelime": "beş",
+     "bas": 0.96,
+     "son": 1.097
+    },
+    {
+     "kelime": "dakikada",
+     "bas": 1.097,
+     "son": 1.646
+    },
+    {
+     "kelime": "bulursun.",
+     "bas": 1.646,
+     "son": 2.14
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "metin": "Gerçekte ise milyarlarca yıl sürüyor!",
+   "bas": 2.34,
+   "son": 4.88,
+   "kelimeler": [
+    {
+     "kelime": "Gerçekte",
+     "bas": 2.34,
+     "son": 2.9
+    },
+    {
+     "kelime": "ise",
+     "bas": 2.9,
+     "son": 3.274
+    },
+    {
+     "kelime": "milyarlarca",
+     "bas": 3.274,
+     "son": 4.021
+    },
+    {
+     "kelime": "yıl",
+     "bas": 4.021,
+     "son": 4.208
+    },
+    {
+     "kelime": "sürüyor!",
+     "bas": 4.208,
+     "son": 4.88
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "metin": "Elmas, yerin 150 kilometre altında oluşur.",
+   "bas": 5.23,
+   "son": 8.65,
+   "kelimeler": [
+    {
+     "kelime": "Elmas,",
+     "bas": 5.23,
+     "son": 5.779
+    },
+    {
+     "kelime": "yerin",
+     "bas": 5.779,
+     "son": 6.201
+    },
+    {
+     "kelime": "150",
+     "bas": 6.201,
+     "son": 6.412
+    },
+    {
+     "kelime": "kilometre",
+     "bas": 6.412,
+     "son": 7.257
+    },
+    {
+     "kelime": "altında",
+     "bas": 7.257,
+     "son": 7.89
+    },
+    {
+     "kelime": "oluşur.",
+     "bas": 7.89,
+     "son": 8.65
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "metin": "Orada sıcaklık 1000 dereceyi geçer, basınç da devasadır.",
+   "bas": 8.85,
+   "son": 12.51,
+   "kelimeler": [
+    {
+     "kelime": "Orada",
+     "bas": 8.85,
+     "son": 9.368
+    },
+    {
+     "kelime": "sıcaklık",
+     "bas": 9.368,
+     "son": 9.886
+    },
+    {
+     "kelime": "1000",
+     "bas": 9.886,
+     "son": 10.058
+    },
+    {
+     "kelime": "dereceyi",
+     "bas": 10.058,
+     "son": 10.749
+    },
+    {
+     "kelime": "geçer,",
+     "bas": 10.749,
+     "son": 11.198
+    },
+    {
+     "kelime": "basınç",
+     "bas": 11.198,
+     "son": 11.543
+    },
+    {
+     "kelime": "da",
+     "bas": 11.543,
+     "son": 11.716
+    },
+    {
+     "kelime": "devasadır.",
+     "bas": 11.716,
+     "son": 12.51
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "metin": "Karbon atomları sıkışa sıkışa sapasağlam bir kafes kurar.",
+   "bas": 12.76,
+   "son": 16.68,
+   "kelimeler": [
+    {
+     "kelime": "Karbon",
+     "bas": 12.76,
+     "son": 13.123
+    },
+    {
+     "kelime": "atomları",
+     "bas": 13.123,
+     "son": 13.849
+    },
+    {
+     "kelime": "sıkışa",
+     "bas": 13.849,
+     "son": 14.393
+    },
+    {
+     "kelime": "sıkışa",
+     "bas": 14.393,
+     "son": 14.938
+    },
+    {
+     "kelime": "sapasağlam",
+     "bas": 14.938,
+     "son": 15.664
+    },
+    {
+     "kelime": "bir",
+     "bas": 15.664,
+     "son": 15.845
+    },
+    {
+     "kelime": "kafes",
+     "bas": 15.845,
+     "son": 16.208
+    },
+    {
+     "kelime": "kurar.",
+     "bas": 16.208,
+     "son": 16.68
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "metin": "İşin tuhafı, kurşun kalemdeki grafit de aynı atomdan yapılmış!",
+   "bas": 16.93,
+   "son": 20.69,
+   "kelimeler": [
+    {
+     "kelime": "İşin",
+     "bas": 16.93,
+     "son": 17.254
+    },
+    {
+     "kelime": "tuhafı,",
+     "bas": 17.254,
+     "son": 17.838
+    },
+    {
+     "kelime": "kurşun",
+     "bas": 17.838,
+     "son": 18.162
+    },
+    {
+     "kelime": "kalemdeki",
+     "bas": 18.162,
+     "son": 18.81
+    },
+    {
+     "kelime": "grafit",
+     "bas": 18.81,
+     "son": 19.134
+    },
+    {
+     "kelime": "de",
+     "bas": 19.134,
+     "son": 19.296
+    },
+    {
+     "kelime": "aynı",
+     "bas": 19.296,
+     "son": 19.62
+    },
+    {
+     "kelime": "atomdan",
+     "bas": 19.62,
+     "son": 20.107
+    },
+    {
+     "kelime": "yapılmış!",
+     "bas": 20.107,
+     "son": 20.69
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "metin": "Peki elmas yeryüzüne nasıl çıkıyor?",
+   "bas": 21.04,
+   "son": 23.56,
+   "kelimeler": [
+    {
+     "kelime": "Peki",
+     "bas": 21.04,
+     "son": 21.411
+    },
+    {
+     "kelime": "elmas",
+     "bas": 21.411,
+     "son": 21.781
+    },
+    {
+     "kelime": "yeryüzüne",
+     "bas": 21.781,
+     "son": 22.522
+    },
+    {
+     "kelime": "nasıl",
+     "bas": 22.522,
+     "son": 22.893
+    },
+    {
+     "kelime": "çıkıyor?",
+     "bas": 22.893,
+     "son": 23.56
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "metin": "Volkanik bir baca, onu asansör gibi hızla yukarı fırlatıyor.",
+   "bas": 23.76,
+   "son": 27.36,
+   "kelimeler": [
+    {
+     "kelime": "Volkanik",
+     "bas": 23.76,
+     "son": 24.226
+    },
+    {
+     "kelime": "bir",
+     "bas": 24.226,
+     "son": 24.381
+    },
+    {
+     "kelime": "baca,",
+     "bas": 24.381,
+     "son": 24.784
+    },
+    {
+     "kelime": "onu",
+     "bas": 24.784,
+     "son": 25.094
+    },
+    {
+     "kelime": "asansör",
+     "bas": 25.094,
+     "son": 25.56
+    },
+    {
+     "kelime": "gibi",
+     "bas": 25.56,
+     "son": 25.87
+    },
+    {
+     "kelime": "hızla",
+     "bas": 25.87,
+     "son": 26.181
+    },
+    {
+     "kelime": "yukarı",
+     "bas": 26.181,
+     "son": 26.646
+    },
+    {
+     "kelime": "fırlatıyor.",
+     "bas": 26.646,
+     "son": 27.36
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "metin": "Yavaş çıksaydı tekrar grafite dönüşürdü.",
+   "bas": 27.61,
+   "son": 29.93,
+   "kelimeler": [
+    {
+     "kelime": "Yavaş",
+     "bas": 27.61,
+     "son": 27.928
+    },
+    {
+     "kelime": "çıksaydı",
+     "bas": 27.928,
+     "son": 28.405
+    },
+    {
+     "kelime": "tekrar",
+     "bas": 28.405,
+     "son": 28.722
+    },
+    {
+     "kelime": "grafite",
+     "bas": 28.722,
+     "son": 29.199
+    },
+    {
+     "kelime": "dönüşürdü.",
+     "bas": 29.199,
+     "son": 29.93
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "metin": "Yani parmağındaki elmas, dinozorlardan bile yaşlı.",
+   "bas": 30.23,
+   "son": 33.25,
+   "kelimeler": [
+    {
+     "kelime": "Yani",
+     "bas": 30.23,
+     "son": 30.545
+    },
+    {
+     "kelime": "parmağındaki",
+     "bas": 30.545,
+     "son": 31.331
+    },
+    {
+     "kelime": "elmas,",
+     "bas": 31.331,
+     "son": 31.74
+    },
+    {
+     "kelime": "dinozorlardan",
+     "bas": 31.74,
+     "son": 32.526
+    },
+    {
+     "kelime": "bile",
+     "bas": 32.526,
+     "son": 32.841
+    },
+    {
+     "kelime": "yaşlı.",
+     "bas": 32.841,
+     "son": 33.25
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "metin": "Bir dahaki kazında bunu hatırla!",
+   "bas": 33.55,
+   "son": 35.31,
+   "kelimeler": [
+    {
+     "kelime": "Bir",
+     "bas": 33.55,
+     "son": 33.69
+    },
+    {
+     "kelime": "dahaki",
+     "bas": 33.69,
+     "son": 34.109
+    },
+    {
+     "kelime": "kazında",
+     "bas": 34.109,
+     "son": 34.528
+    },
+    {
+     "kelime": "bunu",
+     "bas": 34.528,
+     "son": 34.807
+    },
+    {
+     "kelime": "hatırla!",
+     "bas": 34.807,
+     "son": 35.31
+    }
+   ]
+  }
+ ]
+}
