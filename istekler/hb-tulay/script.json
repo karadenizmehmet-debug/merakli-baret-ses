@@ -1,0 +1,9 @@
+{
+ "baslik": "Hamam Böceği 1: Terlik Mağduru Tülay",
+ "cumleler": [
+  {"kim": "tulay", "metin": "Doktor! Terlik yedim, üstüne bir de ilaç sıktılar!", "duygu": 0.95, "hiz": 1.12, "duraklama": 0.06},
+  {"kim": "doktor", "metin": "Hiçbir şeyin yok. Biz kırk üç farklı kimyasala dayanıklıyız.", "duygu": 0.45, "hiz": 1.12, "duraklama": 0.06},
+  {"kim": "tulay", "metin": "Kırk üç mü? Kırk dördüncüyü getirsinler o zaman!", "duygu": 0.9, "hiz": 1.12, "duraklama": 0.06},
+  {"kim": "doktor", "metin": "Terlik kimyasal değil, Tülay Hanım.", "duygu": 0.5, "hiz": 1.08, "duraklama": 0.1}
+ ]
+}
