@@ -1,0 +1,23 @@
+{
+ "baslik": "404 Evreni 1: 404 kimdir?",
+ "cumleler": [
+  {"metin": "Sınıftaki bütün ödevler bir gecede kayboldu!", "duygu": 0.85, "hiz": 1.12, "duraklama": 0.08},
+  {"metin": "Şarjcık bağırdı: Bunu 404 yaptı!", "okunus": "Şarjcık bağırdı: Bunu dört yüz dört yaptı!", "duygu": 0.95, "hiz": 1.12, "duraklama": 0.06},
+  {"metin": "Ama 404'ü bugüne kadar kimse görmedi.", "okunus": "Ama dört yüz dördü bugüne kadar kimse görmedi.", "duygu": 0.6, "hiz": 1.1, "duraklama": 0.06},
+  {"metin": "Sinyalcan yemin etti: Dün gece Wi-Fi kesik kesik miyavladı!", "okunus": "Sinyalcan yemin etti: Dün gece vayfay kesik kesik miyavladı!", "duygu": 0.8, "hiz": 1.12, "duraklama": 0.08},
+  {"metin": "Meraklı Baret izini sürmeye karar verdi.", "duygu": 0.65, "hiz": 1.1, "duraklama": 0.06},
+  {"metin": "Bir siteye girince telefonun sunucuya bir istek yollar.", "duygu": 0.55, "hiz": 1.1, "duraklama": 0.05},
+  {"metin": "İstek, kablolarda ışık hızına yakın koşar.", "duygu": 0.7, "hiz": 1.12, "duraklama": 0.05},
+  {"metin": "Sunucu kapıyı açar. Ama raflarda o sayfa yoksa...", "duygu": 0.6, "hiz": 1.08, "duraklama": 0.06},
+  {"metin": "Cevap verir: 404, yani bulunamadı!", "okunus": "Cevap verir: dört yüz dört, yani bulunamadı!", "duygu": 0.9, "hiz": 1.1, "duraklama": 0.08},
+  {"metin": "4 ile başlayan kodlar, sorunun istekte olduğunu söyler.", "okunus": "Dört ile başlayan kodlar, sorunun istekte olduğunu söyler.", "duygu": 0.55, "hiz": 1.1, "duraklama": 0.05},
+  {"metin": "5 ile başlarsa suçlu sunucunun kendisi!", "okunus": "Beş ile başlarsa suçlu sunucunun kendisi!", "duygu": 0.8, "hiz": 1.12, "duraklama": 0.06},
+  {"metin": "Peki o meşhur gizli 404 numaralı oda?", "okunus": "Peki o meşhur gizli dört yüz dört numaralı oda?", "duygu": 0.7, "hiz": 1.1, "duraklama": 0.05},
+  {"metin": "Kapıyı açtılar... İçi bomboş!", "duygu": 0.85, "hiz": 1.08, "duraklama": 0.06},
+  {"metin": "O oda bir efsane. 404 sadece bir kod.", "okunus": "O oda bir efsane. Dört yüz dört sadece bir kod.", "duygu": 0.6, "hiz": 1.1, "duraklama": 0.06},
+  {"metin": "Ödevler mi? Öğretmen hepsini çoktan toplamış!", "duygu": 0.85, "hiz": 1.12, "duraklama": 0.08},
+  {"metin": "Tam o sırada Baret'in bareti kayboldu.", "duygu": 0.7, "hiz": 1.12, "duraklama": 0.05},
+  {"metin": "Bu da 404 oldu!", "okunus": "Bu da dört yüz dört oldu!", "duygu": 1.0, "hiz": 1.08, "duraklama": 0.1},
+  {"metin": "Senin neyin 404 oldu? Yoruma yaz!", "okunus": "Senin neyin dört yüz dört oldu? Yoruma yaz!", "duygu": 0.8, "hiz": 1.1, "duraklama": 0.1}
+ ]
+}
