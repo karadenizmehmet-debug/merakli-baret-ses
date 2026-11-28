@@ -1,0 +1,264 @@
+{
+ "sure": 16.81,
+ "cumleler": [
+  {
+   "no": 1,
+   "metin": "6-B'nin yıldızı! Hasan bugün Messi gibi!",
+   "bas": 0.0,
+   "son": 2.831,
+   "kelimeler": [
+    {
+     "kelime": "6-B'nin",
+     "bas": 0.0,
+     "son": 0.214
+    },
+    {
+     "kelime": "yıldızı!",
+     "bas": 0.214,
+     "son": 0.987
+    },
+    {
+     "kelime": "Hasan",
+     "bas": 0.987,
+     "son": 1.415
+    },
+    {
+     "kelime": "bugün",
+     "bas": 1.415,
+     "son": 1.844
+    },
+    {
+     "kelime": "Messi",
+     "bas": 1.844,
+     "son": 2.273
+    },
+    {
+     "kelime": "gibi!",
+     "bas": 2.273,
+     "son": 2.831
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "metin": "VUR HASAN, KALE BOŞ!",
+   "bas": 2.891,
+   "son": 4.115,
+   "kelimeler": [
+    {
+     "kelime": "VUR",
+     "bas": 2.891,
+     "son": 3.061
+    },
+    {
+     "kelime": "HASAN,",
+     "bas": 3.061,
+     "son": 3.503
+    },
+    {
+     "kelime": "KALE",
+     "bas": 3.503,
+     "son": 3.843
+    },
+    {
+     "kelime": "BOŞ!",
+     "bas": 3.843,
+     "son": 4.115
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "metin": "Eyvah... kale boş!",
+   "bas": 4.175,
+   "son": 5.636,
+   "kelimeler": [
+    {
+     "kelime": "Eyvah...",
+     "bas": 4.175,
+     "son": 4.788
+    },
+    {
+     "kelime": "kale",
+     "bas": 4.788,
+     "son": 5.259
+    },
+    {
+     "kelime": "boş!",
+     "bas": 5.259,
+     "son": 5.636
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "metin": "Hasan, kale orada, kantin orada!",
+   "bas": 5.696,
+   "son": 8.115,
+   "kelimeler": [
+    {
+     "kelime": "Hasan,",
+     "bas": 5.696,
+     "son": 6.152
+    },
+    {
+     "kelime": "kale",
+     "bas": 6.152,
+     "son": 6.502
+    },
+    {
+     "kelime": "orada,",
+     "bas": 6.502,
+     "son": 7.133
+    },
+    {
+     "kelime": "kantin",
+     "bas": 7.133,
+     "son": 7.484
+    },
+    {
+     "kelime": "orada!",
+     "bas": 7.484,
+     "son": 8.115
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "metin": "Tost mu istedin evladım?",
+   "bas": 8.175,
+   "son": 9.321,
+   "kelimeler": [
+    {
+     "kelime": "Tost",
+     "bas": 8.175,
+     "son": 8.309
+    },
+    {
+     "kelime": "mu",
+     "bas": 8.309,
+     "son": 8.442
+    },
+    {
+     "kelime": "istedin",
+     "bas": 8.442,
+     "son": 8.842
+    },
+    {
+     "kelime": "evladım?",
+     "bas": 8.842,
+     "son": 9.321
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "metin": "Lütfen... lütfen... lütfen...",
+   "bas": 9.381,
+   "son": 11.078,
+   "kelimeler": [
+    {
+     "kelime": "Lütfen...",
+     "bas": 9.381,
+     "son": 9.947
+    },
+    {
+     "kelime": "lütfen...",
+     "bas": 9.947,
+     "son": 10.512
+    },
+    {
+     "kelime": "lütfen...",
+     "bas": 10.512,
+     "son": 11.078
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "metin": "Bu çocuk kaleci varken gol atıyor, kaleci yokken atamıyor!",
+   "bas": 11.138,
+   "son": 14.817,
+   "kelimeler": [
+    {
+     "kelime": "Bu",
+     "bas": 11.138,
+     "son": 11.304
+    },
+    {
+     "kelime": "çocuk",
+     "bas": 11.304,
+     "son": 11.635
+    },
+    {
+     "kelime": "kaleci",
+     "bas": 11.635,
+     "son": 12.132
+    },
+    {
+     "kelime": "varken",
+     "bas": 12.132,
+     "son": 12.464
+    },
+    {
+     "kelime": "gol",
+     "bas": 12.464,
+     "son": 12.629
+    },
+    {
+     "kelime": "atıyor,",
+     "bas": 12.629,
+     "son": 13.226
+    },
+    {
+     "kelime": "kaleci",
+     "bas": 13.226,
+     "son": 13.723
+    },
+    {
+     "kelime": "yokken",
+     "bas": 13.723,
+     "son": 14.054
+    },
+    {
+     "kelime": "atamıyor!",
+     "bas": 14.054,
+     "son": 14.817
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "metin": "Abone ol, belki üçüncüde atar!",
+   "bas": 14.877,
+   "son": 16.75,
+   "kelimeler": [
+    {
+     "kelime": "Abone",
+     "bas": 14.877,
+     "son": 15.302
+    },
+    {
+     "kelime": "ol,",
+     "bas": 15.302,
+     "son": 15.529
+    },
+    {
+     "kelime": "belki",
+     "bas": 15.529,
+     "son": 15.813
+    },
+    {
+     "kelime": "üçüncüde",
+     "bas": 15.813,
+     "son": 16.381
+    },
+    {
+     "kelime": "atar!",
+     "bas": 16.381,
+     "son": 16.75
+    }
+   ]
+  }
+ ]
+}
