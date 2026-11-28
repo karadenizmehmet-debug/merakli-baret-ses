@@ -1,0 +1,13 @@
+{
+ "baslik": "HASAN FC – Boş Kale Sendromu",
+ "cumleler": [
+  {"kim": "ali", "metin": "6-B'nin yıldızı! Hasan bugün Messi gibi!", "okunus": "Altı Be'nin yıldızı! Hasan bugün Mesi gibi!", "duygu": 0.95, "hiz": 1.1, "duraklama": 0.06},
+  {"kim": "hep", "metin": "VUR HASAN, KALE BOŞ!", "okunus": "Vur Hasan! Kale boş!", "duygu": 1.0, "hiz": 1.08, "duraklama": 0.06},
+  {"kim": "hasan", "metin": "Eyvah... kale boş!", "okunus": "Eyvah! Kale boş!", "duygu": 0.8, "hiz": 1.05, "duraklama": 0.06},
+  {"kim": "ali", "metin": "Hasan, kale orada, kantin orada!", "okunus": "Hasan! Kale orada, kantin orada!", "duygu": 0.95, "hiz": 1.1, "duraklama": 0.06},
+  {"kim": "kantinci", "metin": "Tost mu istedin evladım?", "duygu": 0.55, "hiz": 1.08, "duraklama": 0.06},
+  {"kim": "hep", "metin": "Lütfen... lütfen... lütfen...", "okunus": "Lütfen, lütfen, lütfen.", "duygu": 0.5, "hiz": 1.05, "duraklama": 0.06},
+  {"kim": "emre", "metin": "Bu çocuk kaleci varken gol atıyor, kaleci yokken atamıyor!", "okunus": "Bu çocuk kaleci varken gol atıyor, kaleci yokken atamıyor!", "duygu": 0.6, "hiz": 1.12, "duraklama": 0.06},
+  {"kim": "emre", "metin": "Abone ol, belki üçüncüde atar!", "duygu": 0.75, "hiz": 1.12, "duraklama": 0.06}
+ ]
+}
